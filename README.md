@@ -1,60 +1,58 @@
-# GitHub Portfolio Analyzer 🚀
+GitHub Portfolio Analyzer
 
-An AI-powered Streamlit web application that analyzes a developer's GitHub profile and provides insights about repository activity, project quality, and improvement suggestions.
+An AI-powered Streamlit web application that analyzes a developer’s GitHub profile and provides insights into repository activity, project quality, and improvement opportunities.
 
-## 🔍 Overview
+Overview
 
-The GitHub Portfolio Analyzer helps developers understand the strengths and weaknesses of their GitHub portfolio. It analyzes repositories and provides actionable feedback that can help improve project quality and visibility for recruiters and hackathons.
+The GitHub Portfolio Analyzer helps developers understand the strengths and weaknesses of their GitHub portfolio. It evaluates repositories, activity patterns, and project structure to generate actionable feedback that improves project quality, recruiter visibility, and hackathon readiness.
 
-## ✨ Features
+Features
 
-* Analyze GitHub repositories and activity
-* Portfolio insights and evaluation
-* Actionable improvement suggestions
-* Simple and interactive web interface
-* Built using Python and Streamlit
+Analyze GitHub repositories and contribution activity
 
-## 🛠 Tech Stack
+Portfolio evaluation and insights
 
-* Python
-* Streamlit
-* GitHub API
-* Data Analysis
-* AI-based evaluation logic
+Actionable improvement suggestions
 
-## ▶️ How to Run Locally
+Simple and interactive web interface
 
-1. Clone the repository:
+AI-assisted evaluation logic
 
-```bash
+Tech Stack
+
+Python
+
+Streamlit
+
+GitHub REST API
+
+Data Analysis
+
+AI-based evaluation logic
+
+How to Run Locally
+Clone the repository
 git clone https://github.com/borqa258/github-portfolio-analyzer.git
-```
 
-2. Navigate to the project folder:
-
-```bash
+Navigate to the project folder
 cd github-portfolio-analyzer
-```
 
-3. Install dependencies:
-
-```bash
+Install dependencies
 pip install -r requirements.txt
-```
 
-4. Run the application:
-
-```bash
+Run the application
 streamlit run app.py
-```
 
-## 📈 Future Improvements
+Future Improvements
 
-* AI-based skill detection from repositories
-* Resume compatibility scoring
-* Advanced analytics dashboard
-* Deployment on cloud
+AI-based skill detection from repositories
 
-## 👨‍💻 Author
+Resume compatibility scoring
 
-**Syed Irfan Shokil**
+Advanced analytics dashboard
+
+Cloud deployment
+
+Author
+
+Syed Irfan Shokil
