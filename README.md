@@ -1,12 +1,12 @@
-GitHub Portfolio Analyzer
+🚀 GitHub Portfolio Analyzer
 
 An AI-powered Streamlit web application that analyzes a developer’s GitHub profile and provides insights into repository activity, project quality, and improvement opportunities.
 
-Overview
+🔍 Overview
 
 The GitHub Portfolio Analyzer helps developers understand the strengths and weaknesses of their GitHub portfolio. It evaluates repositories, activity patterns, and project structure to generate actionable feedback that improves project quality, recruiter visibility, and hackathon readiness.
 
-Features
+✨ Features
 
 Analyze GitHub repositories and contribution activity
 
@@ -18,7 +18,7 @@ Simple and interactive web interface
 
 AI-assisted evaluation logic
 
-Tech Stack
+🛠 Tech Stack
 
 Python
 
@@ -30,20 +30,20 @@ Data Analysis
 
 AI-based evaluation logic
 
-How to Run Locally
-Clone the repository
+▶️ How to Run Locally
+1️⃣ Clone the repository
 git clone https://github.com/borqa258/github-portfolio-analyzer.git
 
-Navigate to the project folder
+2️⃣ Navigate to the project folder
 cd github-portfolio-analyzer
 
-Install dependencies
+3️⃣ Install dependencies
 pip install -r requirements.txt
 
-Run the application
+4️⃣ Run the application
 streamlit run app.py
 
-Future Improvements
+📈 Future Improvements
 
 AI-based skill detection from repositories
 
@@ -53,6 +53,6 @@ Advanced analytics dashboard
 
 Cloud deployment
 
-Author
+👨‍💻 Author
 
 Syed Irfan Shokil
